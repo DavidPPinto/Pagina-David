@@ -6,6 +6,23 @@ h1{
 }
 h2{
     color:darkred;
-    border-bottom:2px dashed;
-
+    
+}
+h3
+{
+    color:blue;
+}
+td, th {
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+}
+th
+{
+    background-color:darkred;
+    color: white;
+    text-align:center;
+}
+table {
+    border-collapse: collapse;
 }
