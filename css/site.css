@@ -60,8 +60,33 @@ nav {
     
 }
 
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+
+    nav a {
+        text-decoration: none;
+        color: darkred;
+        border: 1px solid darkred;
+        background-color: #cfc3c3;
+        padding: 7px;
+        display: block;
+        text-align: center;
+    }
+
+        nav a:hover {
+            background-color: #808080;
+            color: white;
+        }
+
+        nav a:active {
+            font-weight: bold;
+        }
+
     /* Style the list inside the menu */
-    nav ul li {
+    /*nav ul li {
         list-style-type: none;
         padding: 0;
         text-decoration:none;
@@ -70,14 +95,14 @@ nav {
     nav ul li a{
         text-decoration:none;
         color:darkred;
-    }
+    }*/
 
 article {
     float: left;
     padding: 20px;
     width: 70%;
     background-color: #f1f1f1;
-    height: 300px; /* only for demonstration, should be removed */
+    /*height: 300px; only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
@@ -101,4 +126,19 @@ footer {
         width: 100%;
         height: auto;
     }
+}
+td, th {
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+}
+
+th {
+    background-color: darkred;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom:15px;
 }
