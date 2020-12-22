@@ -49,12 +49,12 @@ header {
     color: orangered;
 }
 
-/* Create two columns/boxes that floats next to each other */
+ /*Create two columns/boxes that floats next to each other 
 nav {
     float: left;
-    width: 30%;
-    height: 300px; /* only for demonstration, should be removed */
-    background: #ccc;
+    width: 30%;*/
+    /*height: 300px;  only for demonstration, should be removed */
+    /*background: #ccc;
     padding: 20px;
     background-color:lightyellow;
     
@@ -83,7 +83,7 @@ nav {
 
         nav a:active {
             font-weight: bold;
-        }
+        }*/
 
     /* Style the list inside the menu */
     /*nav ul li {
