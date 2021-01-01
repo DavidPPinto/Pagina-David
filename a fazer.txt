@@ -1,4 +1,10 @@
-Fazer link para contactos
-Por link numa imagem 
-commit
-Mudança do layout
+colocar title nos links (title="qualquer coisa") a seguir ao link da imagem - check
+colocar coisa col-....para tornar o site responsivo - check
+corrigir página do David e o Home - check
+colocar cards ou algo do género nas competências linguisticas - check
+trocar o footer para como o professor fez - check
+
+
+
+
+
