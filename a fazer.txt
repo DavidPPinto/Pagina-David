@@ -3,7 +3,8 @@ colocar coisa col-....para tornar o site responsivo - check
 corrigir página do David e o Home - check
 colocar cards ou algo do género nas competências linguisticas - check
 trocar o footer para como o professor fez - check
-
+Na primeira página mudar o header
+Colocar os cards como o link para as diferentes paginas
 
 
 
