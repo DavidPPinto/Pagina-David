@@ -6,6 +6,8 @@ trocar o footer para como o professor fez - check
 Na primeira página mudar o header - check
 Colocar os cards como o link para as diferentes paginas - coloquei botoes em vez disso - check
 Tirar foto do certificado de linguas e colocar como link
-como mudar o bootstrap
+Colocar botões de facebook, linkedin, twitter.
+
+
 
 

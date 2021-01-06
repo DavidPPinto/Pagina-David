@@ -19,17 +19,19 @@ td, th {
     text-align: left;
     padding: 8px;
 }
+
 table, th, td {
     border: 1px solid black;
-    
-   
 }
+
 tr:nth-child(even) {
     background-color: #dddddd;
 }
-        nav a:active {
-            font-weight: bold;
-        }
+
+nav a:active {
+    font-weight: bold;
+}
+
 th {
     background-color: darkred;
     color: white;
@@ -48,7 +50,7 @@ article {
     height: 300px; /*only for demonstration, should be removed */
 }
 
- Clear floats after the columns 
+Clear floats after the columns
 section:after {
     content: "";
     display: table;
@@ -63,32 +65,69 @@ section:after {
         height: auto;
     }
 }
+
 td, th {
-    
     padding: 4px;
     text-align: center;
-
 }
 
 .video {
     width: 33%;
     height: auto;
 }
-.escola{
-    text-decoration:none;
-    color:darkred;
+
+a.escola {
+    text-decoration: none;
+    color: #4800ff;
 }
 
+    a.escola:link {
+        /* unvisited link */
+        color: black;
+        text-decoration: none;
+    }
 
+    a.escola:visited {
+        /* visited link */
+        color: darkred;
+    }
 
-    /*  SE QUISER COLOCAR UMA IMAGEM DE FUNDO 
+    a.escola:hover {
+        /*mouse over link */
+        color: red;
+        border-bottom: double;
+    }
+
+    a.escola:active {
+        /*active link */
+        color: darkslategrey;
+    }
+/*/ *design links a.escola:link {*/ /**/ /* unvisited link */
+/*color: #ff0000;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+a.escola:visited {*/ /* visited link */
+/*color: #ff00ff;
+}
+
+a.escola:hover {*/ /* mouse over link */
+/*color: #00ff00;
+    border-bottom: none;
+}
+
+a.escola:active {*/ /* active link */
+/*color: #00ffff;
+}*/
+/*  SE QUISER COLOCAR UMA IMAGEM DE FUNDO 
 .jumbotron {
     background-image: url(../img/logotipo_ipg.jpg);
     background-repeat: no-repeat;
     background-position: top ;
 }
 */
-    /*h1{
+/*h1{
     color:green;
     background-color: lightblue;
     border:4px groove;
@@ -121,22 +160,22 @@ body
 {
     background-color: lightyellow;
 }*/
-    /* Style the footer */
-    /*footer {
+/* Style the footer */
+/*footer {
     background-color: midnightblue;
     padding: 10px;
     text-align: center;
     color: darkorange;
 }*/
-    /* Style the header */
-    /*header {
+/* Style the header */
+/*header {
     background-color: darkblue;
     padding: 30px;
     text-align: center;
     font-size: 35px;
     color: orangered;
 }*/
-    /*Create two columns/boxes that floats next to each other 
+/*Create two columns/boxes that floats next to each other 
 nav {
     float: left;
     width: 30%;
@@ -145,11 +184,11 @@ nav {
     padding: 20px;
     background-color:lightyellow;
     }*/
-    /*   nav ul {
+/*   nav ul {
         list-style-type: none;
         padding: 0;
     }*/
-    /* nav a {
+/* nav a {
         text-decoration: none;
         color: darkred;
         border: 1px solid darkred;
@@ -159,12 +198,12 @@ nav {
         text-align: center;
     }
 */
-    /*    nav a:hover {
+/*    nav a:hover {
             background-color: #808080;
             color: white;
         }*/
-    /* Style the list inside the menu */
-    /*nav ul li {
+/* Style the list inside the menu */
+/*nav ul li {
         list-style-type: none;
         padding: 0;
         text-decoration:none;
