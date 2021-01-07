@@ -4,6 +4,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+   
 }
 
 
@@ -102,6 +103,19 @@ a.escola {
         /*active link */
         color: darkslategrey;
     }
+
+    #btn{
+        text-align:left;
+    }
+
+.jumbotron {
+    background-color: transparent;
+}
+#pagini{
+    background-color:lightgrey;
+    padding:25px;
+ 
+}
 /*/ *design links a.escola:link {*/ /**/ /* unvisited link */
 /*color: #ff0000;
     text-decoration: none;
@@ -120,13 +134,14 @@ a.escola:hover {*/ /* mouse over link */
 a.escola:active {*/ /* active link */
 /*color: #00ffff;
 }*/
-/*  SE QUISER COLOCAR UMA IMAGEM DE FUNDO 
-.jumbotron {
-    background-image: url(../img/logotipo_ipg.jpg);
+  /*SE QUISER COLOCAR UMA IMAGEM DE FUNDO */
+/*.foto {
+    background-image: url(../img/fato.jpg);
     background-repeat: no-repeat;
-    background-position: top ;
-}
-*/
+    background-position: right top;
+}*/
+
+
 /*h1{
     color:green;
     background-color: lightblue;

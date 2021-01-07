@@ -7,6 +7,8 @@ Na primeira página mudar o header - check
 Colocar os cards como o link para as diferentes paginas - coloquei botoes em vez disso - check
 Tirar foto do certificado de linguas e colocar como link
 Colocar botões de facebook, linkedin, twitter.
+redimensionar botoes pagina inicial
+colocar quotation: "Nenhum homem é uma ilha". John Donne
 
 
 
