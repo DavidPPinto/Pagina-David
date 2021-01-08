@@ -1,15 +1,9 @@
-colocar title nos links (title="qualquer coisa") a seguir ao link da imagem - check
-colocar coisa col-....para tornar o site responsivo - check
-corrigir página do David e o Home - check
-colocar cards ou algo do género nas competências linguisticas - check
-trocar o footer para como o professor fez - check
-Na primeira página mudar o header - check
-Colocar os cards como o link para as diferentes paginas - coloquei botoes em vez disso - check
 Tirar foto do certificado de linguas e colocar como link
 Colocar botões de facebook, linkedin, twitter.
-redimensionar botoes pagina inicial
+redimensionar botoes pagina inicial - check
 colocar quotation: "Nenhum homem é uma ilha". John Donne
-
+colocar javascrip
+verificar margins e padding. mudar para ficar igual
 
 
 
