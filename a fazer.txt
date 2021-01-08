@@ -3,7 +3,7 @@ Colocar botões de facebook, linkedin, twitter.
 redimensionar botoes pagina inicial - check
 colocar quotation: "Nenhum homem é uma ilha". John Donne
 colocar javascrip
-verificar margins e padding. mudar para ficar igual
+colocar definição cards para quando diminuo o ecrâ 
 
 
 
